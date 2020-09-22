@@ -1,0 +1,1 @@
+FROM ainizeml/fcn_resnet_101
