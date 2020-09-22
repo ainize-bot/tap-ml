@@ -1,0 +1,1 @@
+FROM ainizeml/my_text_classifier_v2
